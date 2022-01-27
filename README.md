@@ -1,7 +1,7 @@
-# Algorithmic-Toolbox-San-Diego
+# Algorithmic Toolbox San Diego
 My Solutions of Algorithmic-Toolbox Assignments from Coursera University of California San Diego.
 
-## Table of contents
+## Programming Challenges
 ### Week 2 : Algorithmic Warmup <a href="https://github.com/michaelehab/Algorithmic-Toolbox-San-Diego/blob/main/week2_algorithmic_warmup/week2_algorithmic_warmup.pdf">PDF</a>
 * <a href = "https://github.com/michaelehab/Algorithmic-Toolbox-San-Diego/tree/main/week2_algorithmic_warmup/1_fibonacci_number">fibonacci_number</a>
 * <a href = "https://github.com/michaelehab/Algorithmic-Toolbox-San-Diego/tree/main/week2_algorithmic_warmup/2_last_digit_of_fibonacci_number">last_digit_of_fibonacci_number</a>
@@ -20,3 +20,19 @@ My Solutions of Algorithmic-Toolbox Assignments from Coursera University of Cali
 * <a href="https://github.com/michaelehab/Algorithmic-Toolbox-San-Diego/tree/main/week3_greedy_algorithms/5_collecting_signatures">collecting_signatures</a>
 * <a href="https://github.com/michaelehab/Algorithmic-Toolbox-San-Diego/tree/main/week3_greedy_algorithms/6_maximum_number_of_prizes">maximum_number_of_prizes</a>
 * <a href="https://github.com/michaelehab/Algorithmic-Toolbox-San-Diego/tree/main/week3_greedy_algorithms/7_maximum_salary">maximum_salary</a>
+
+### Week 4 : Divide and Conquer <a href="https://github.com/michaelehab/Algorithmic-Toolbox-San-Diego/blob/main/week4_divide_and_conquer/week4_divide_and_conquer.pdf">PDF</a>
+* <a href="https://github.com/michaelehab/Algorithmic-Toolbox-San-Diego/tree/main/week4_divide_and_conquer/1_binary_search">binary_search</a>
+* <a href="https://github.com/michaelehab/Algorithmic-Toolbox-San-Diego/tree/main/week4_divide_and_conquer/2_binary_search_with_duplicates">binary_search_with_duplicates</a>
+* <a href="https://github.com/michaelehab/Algorithmic-Toolbox-San-Diego/tree/main/week4_divide_and_conquer/3_majority_element">majority_element</a>
+* <a href="https://github.com/michaelehab/Algorithmic-Toolbox-San-Diego/tree/main/week4_divide_and_conquer/4_improving_quicksort">improving_quicksort</a>
+* <a href="https://github.com/michaelehab/Algorithmic-Toolbox-San-Diego/tree/main/week4_divide_and_conquer/5_number_of_inversions">number_of_inversions</a>
+* <a href="https://github.com/michaelehab/Algorithmic-Toolbox-San-Diego/tree/main/week4_divide_and_conquer/6_organizing_a_lottery">organizing_a_lottery</a>
+* <a href="https://github.com/michaelehab/Algorithmic-Toolbox-San-Diego/tree/main/week4_divide_and_conquer/7_closest_points">closest_points</a>
+
+### Week 5 : Dynamic Programming 1 <a href="https://github.com/michaelehab/Algorithmic-Toolbox-San-Diego/blob/main/week5_dynamic_programming1/week5_dynamic_programming1.pdf">PDF</a>
+* <a href="https://github.com/michaelehab/Algorithmic-Toolbox-San-Diego/tree/main/week5_dynamic_programming1/1_money_change_again">money_change_again</a>
+* <a href="https://github.com/michaelehab/Algorithmic-Toolbox-San-Diego/tree/main/week5_dynamic_programming1/2_primitive_calculator">primitive_calculator</a>
+* <a href="https://github.com/michaelehab/Algorithmic-Toolbox-San-Diego/tree/main/week5_dynamic_programming1/3_edit_distance">edit_distance</a>
+* <a href="https://github.com/michaelehab/Algorithmic-Toolbox-San-Diego/tree/main/week5_dynamic_programming1/4_longest_common_subsequence_of_two_sequences">longest_common_subsequence_of_two_sequences</a>
+* <a href="https://github.com/michaelehab/Algorithmic-Toolbox-San-Diego/tree/main/week5_dynamic_programming1/5_longest_common_subsequence_of_three_sequences">longest_common_subsequence_of_three_sequences</a>
