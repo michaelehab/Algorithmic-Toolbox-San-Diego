@@ -1,5 +1,4 @@
-# Algorithmic Toolbox San Diego
-My Solutions of Algorithmic-Toolbox Assignments from Coursera University of California San Diego.
+![Algorithmic Toolbox](https://github.com/michaelehab/Algorithmic-Toolbox-San-Diego/blob/main/img/algorithmic-toolbox.jpeg)
 
 ## Programming Challenges
 ### Week 2 : Algorithmic Warmup <a href="https://github.com/michaelehab/Algorithmic-Toolbox-San-Diego/blob/main/week2_algorithmic_warmup/week2_algorithmic_warmup.pdf">PDF</a>
