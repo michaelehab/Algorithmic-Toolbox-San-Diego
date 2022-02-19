@@ -35,3 +35,9 @@
 * <a href="https://github.com/michaelehab/Algorithmic-Toolbox-San-Diego/tree/main/week5_dynamic_programming1/3_edit_distance">edit_distance</a>
 * <a href="https://github.com/michaelehab/Algorithmic-Toolbox-San-Diego/tree/main/week5_dynamic_programming1/4_longest_common_subsequence_of_two_sequences">longest_common_subsequence_of_two_sequences</a>
 * <a href="https://github.com/michaelehab/Algorithmic-Toolbox-San-Diego/tree/main/week5_dynamic_programming1/5_longest_common_subsequence_of_three_sequences">longest_common_subsequence_of_three_sequences</a>
+
+### Week 6 : Dynamic Programming 2 <a href="https://github.com/michaelehab/Algorithmic-Toolbox-San-Diego/blob/main/week6_dynamic_programming2/week6_dynamic_programming2.pdf">PDF</a>
+* <a href="https://github.com/michaelehab/Algorithmic-Toolbox-San-Diego/tree/main/week6_dynamic_programming2/1_maximum_amount_of_gold">maximum_amount_of_gold</a>
+* <a href="https://github.com/michaelehab/Algorithmic-Toolbox-San-Diego/tree/main/week6_dynamic_programming2/3_maximum_value_of_an_arithmetic_expression">maximum_value_of_an_arithmetic_expression</a>
+
+![Course Certificate](https://github.com/michaelehab/Algorithmic-Toolbox-San-Diego/blob/main/img/certificate.jpg)
